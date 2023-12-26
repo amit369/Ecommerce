@@ -7,10 +7,34 @@
       "id": 4
     },
     {
-      "name": "Raman",
-      "email": "raman@gmail.com",
+      "name": "mon",
+      "email": "mon@gmail.com",
       "password": "123456",
       "id": 5
+    },
+    {
+      "name": "Peter",
+      "email": "amitchaman369@gmail.com",
+      "password": "1234566",
+      "id": 6
+    },
+    {
+      "name": "Ishan",
+      "email": "ishan@gmail.com",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "Amit Chaman",
+      "email": "amitchaman369@gmail.com",
+      "password": "12345",
+      "id": 8
+    },
+    {
+      "name": "Amit Chaman",
+      "email": "amitchaman369@gmail.com",
+      "password": "12345",
+      "id": 9
     }
   ]
 }
