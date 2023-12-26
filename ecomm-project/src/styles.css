@@ -31,3 +31,7 @@ body {
 .error-p {
     color : red;
 }
+
+.message-p {
+    color : green;
+}

@@ -5,6 +5,16 @@ export interface SignUp {
 }
 
 export interface login {
-    email : String,
+    email : string,
     password : String
+}
+
+export interface product{
+    name : string,
+    price : number,
+    category : string,
+    color : string,
+    description : string,
+    image : string,
+    id : number
 }
