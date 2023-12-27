@@ -1,13 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { product } from '../data-type';
 @Component({
   selector: 'app-header',
   templateUrl: './header.component.html',
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent implements OnInit {
-  menuType: string ='defaualt';
+  menuType: string ='default';
   sellerName : string = '';
+  searchResults : undefined | product;
   constructor(private router : Router) { }
 
   ngOnInit(): void {
