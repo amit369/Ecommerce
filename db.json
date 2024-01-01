@@ -34,6 +34,24 @@
       "description": "Product",
       "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
       "id": 9
+    },
+    {
+      "name": "Shoe",
+      "price": "2100",
+      "color": "Red",
+      "category": "Lifebuoy",
+      "description": "New",
+      "image": "http://localhost:3000/",
+      "id": 10
+    },
+    {
+      "name": "Mobile",
+      "price": "15000",
+      "color": "Pink",
+      "category": "Gadgets",
+      "description": "This is my gadget",
+      "image": "http://localhost:3000",
+      "id": 11
     }
   ]
 }
